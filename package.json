@@ -33,6 +33,10 @@
 		"type": "git",
 		"url": "git+https://github.com/arunv11u/common.cookies.git"
 	},
+	"keywords": [
+		"common-cookies",
+		"common-cookies-package"
+	],
 	"author": "Arun Varadharajalu",
 	"license": "ISC",
 	"bugs": {

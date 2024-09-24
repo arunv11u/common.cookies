@@ -1,6 +1,6 @@
 {
 	"name": "@arunvaradharajalu/common.cookies",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "This package contains Cookie Implementation class to set and parse cookies.",
 	"main": "./build/index.js",
 	"types": "./build/index.d.ts",
